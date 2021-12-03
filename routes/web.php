@@ -24,3 +24,6 @@ Route::get('/', function () {
 Route::resource('dashboard/post',PostController::class);
 
 Route::resource('dashboard/category',CategoryController::class);
+
+
+Route::resource('dashboard/category2',CategoryController::class);
