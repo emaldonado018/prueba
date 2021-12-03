@@ -26,4 +26,4 @@ Route::resource('dashboard/post',PostController::class);
 Route::resource('dashboard/category',CategoryController::class);
 
 
-Route::resource('dashboard/category2',CategoryController::class);
+Route::resource('dashboard/category3',CategoryController::class);
